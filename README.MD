@@ -17,7 +17,7 @@ O agente foi configurado para atuar como um especialista na ferramenta, seguindo
 
 A imagem abaixo demonstra o agente em ação, respondendo à pergunta "oque é builder?" com uma explicação detalhada sobre o padrão de projeto *Builder*, citando a documentação oficial.
 
-![assets/image0505.png]
+![Configuração do Agente no Copilot Studio](image0505.png)
 
 ## Funcionalidades
 
