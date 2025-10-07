@@ -31,4 +31,4 @@ Contribuições são bem-vindas! Se você tiver sugestões para melhorar as inst
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Este projeto está licenciado sob a [Licença](LICENSE).
