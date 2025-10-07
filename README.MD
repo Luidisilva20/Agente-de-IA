@@ -17,7 +17,7 @@ O agente foi configurado para atuar como um especialista na ferramenta, seguindo
 
 A imagem abaixo demonstra o agente em ação, respondendo à pergunta "oque é builder?" com uma explicação detalhada sobre o padrão de projeto *Builder*, citando a documentação oficial.
 
-![Demonstração do Agente do Luidi no Copilot Studio](assets/captura-copilot-studio.png)
+![Demonstração do Agente do Luidi no Copilot Studio](assets/image0505.png)
 
 ## Funcionalidades
 
