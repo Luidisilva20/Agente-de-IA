@@ -25,10 +25,6 @@ A imagem abaixo demonstra o agente em ação, respondendo à pergunta "oque é b
 -   **Orquestração:** Utiliza a IA generativa para determinar a melhor forma de responder aos usuários e eventos.
 -   **Citações:** Fornece uma ou mais citações da documentação para dar suporte às suas respostas.
 
-## Como Contribuir
-
-Contribuições são bem-vindas! Se você tiver sugestões para melhorar as instruções do agente ou adicionar novas fontes de conhecimento, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
-
 ## Licença
 
 Este projeto está licenciado sob a [Licença](LICENSE).
